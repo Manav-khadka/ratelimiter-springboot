@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RatelimiterApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RatelimiterApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(RatelimiterApplication.class, args);
+    }
 
 }
